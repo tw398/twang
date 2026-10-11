@@ -34,8 +34,8 @@ Research Interests
 Awards and Honors
 ======
 * **上海市科技进步二等奖** (Second Prize, Shanghai Science and Technology Progress Award), *Shanghai Municipal People's Government*, 2025.
-* **Fudan University Outstanding Talent Program (Zhuo Xue)**, *Fudan University*, 2023.
-* **Shanghai Leading Talent (Overseas) Program (Ling Jun)**, *Shanghai Municipality*, 2022.
+* **复旦大学卓学优秀人才** / Fudan University Outstanding Talent Program (Zhuo Xue), *Fudan University*, 2023.
+* **上海市领军人才（海外）** / Shanghai Leading Talent (Overseas) Program (Ling Jun), *Shanghai Municipality*, 2022.
 * **Elected Member**, *International Statistical Institute (ISI)*, since 06/2022.
 * **Runner-Up**, Doctoral Dissertation Award for Operations Research in Telecommunications and Network Analytics, *INFORMS Telecommunication & Analytics*, 2020.
 * **University Medal in Statistics**, *Australian National University*, 2013.

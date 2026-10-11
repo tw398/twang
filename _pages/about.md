@@ -53,6 +53,15 @@ My research develops rigorous mathematical foundations and statistical methodolo
 
 ---
 
+## <i class="fa fa-trophy" aria-hidden="true" style="color: #2b5c8f;"></i> Selected Honors & Awards
+
+* **上海市科技进步二等奖** (Second Prize, Shanghai Science and Technology Progress Award), 2025
+* **复旦大学卓学优秀人才** / Fudan University Outstanding Talent Program (Zhuo Xue), 2023
+* **上海市领军人才（海外）** / Shanghai Leading Talent (Overseas) Program (Ling Jun), 2022
+* **Elected Member**, International Statistical Institute (ISI), since 2022
+
+---
+
 ## <i class="fa fa-link" aria-hidden="true" style="color: #2b5c8f;"></i> Useful Links & Community Seminars
 
 * 🌐 **[One World Extremes Seminar](https://sites.google.com/view/ow-extremes/home?authuser=0)**  
