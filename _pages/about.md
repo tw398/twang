@@ -72,7 +72,6 @@ My research develops rigorous mathematical foundations and statistical methodolo
 * 📦 **[`wdnet` R Package on CRAN](https://cran.r-project.org/web/packages/wdnet/index.html)**  
   Software for network generation and assortativity analysis for weighted, directed networks with preferential attachment.
 * 🏛️ **[Shanghai Center for Mathematical Sciences (SCMS)](https://scms.fudan.edu.cn/)** &bull; **[Fudan University](https://www.fudan.edu.cn/)**
-* 🔬 **[Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)](https://www.simis.cn/)**
 
 ---
 
