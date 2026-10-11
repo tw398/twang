@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+Representative Publications
+======
+* D. Shi, **T. Wang**, Z. Ying. Simultaneous identification of sparse structures and communities in heterogeneous graphical models. *Journal of Machine Learning Research*, 27(148): 1–63, 2026.
+
+* D. Cirkovic, **T. Wang** and D.B.H. Cline. Emergence of multivariate extremes in multilayer inhomogeneous random graphs. *Stochastic Processes and their Applications*, 190: 104762, 2025.
+
+* D. Cirkovic, **T. Wang** and X. Zhang. Likelihood-based inference for random networks with changepoints. *IEEE Transactions on Network Science and Engineering*, 13: 344–359, 2025.
+
+* D. Cirkovic, **T. Wang**. Modeling random networks with heterogeneous reciprocity. *Journal of Machine Learning Research*, 25(10): 1–40, 2024.
+
+* **T. Wang** and S.I. Resnick. Degree growth rates and index estimation in a directed preferential attachment model. *Stochastic Processes and their Applications*, 130(2): 878–906, 2020.
+
 Books
 ======
 * **T. Wang**, Y. Sun, Y. Xia, C. Guo, Y. Fu, and X. Huang. *Data Governance and Model Optimization: Methodological Practices Based on Agile Statistics* [in Chinese]. Publishing House of Electronics Industry, 2026. ISBN 978-7-121-53268-9.
@@ -14,6 +26,8 @@ Journal Articles
 
 ### 2026
 * D. Shi, **T. Wang**, Z. Ying. Simultaneous identification of sparse structures and communities in heterogeneous graphical models. *Journal of Machine Learning Research*, 27(148): 1–63, 2026.
+
+* Q. Hui, S.I. Resnick, **T. Wang**. Classification of extremal dependence in financial markets via bootstrap inference. *Journal of Time Series Analysis*, 2026. [DOI: 10.1111/jtsa.70078](https://doi.org/10.1111/jtsa.70078).
 
 * Q. Hui and **T. Wang**. Extremal dependence networks for mitigating systemic risk via maximum independent sets. *Journal of Complex Networks*, 14(4): cnag005, 2026.
 
@@ -88,9 +102,6 @@ Journal Articles
 
 Preprints and Working Papers
 ======
-
-### Accepted
-* Q. Hui, S.I. Resnick, **T. Wang**. Classification of extremal dependence in financial markets via bootstrap inference. *Journal of Time Series Analysis*, 2026. Accepted for publication.
 
 ### Under Revision
 * D. Shi, H. Zhang, **T. Wang**, J. Wang. A multilayer probit network model for community detection with dependent edges and layers. Minor revision submitted to *Journal of the American Statistical Association*, 2026.
