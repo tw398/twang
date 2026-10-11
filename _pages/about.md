@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a **Tenure-Track Associate Professor** at the [Shanghai Center for Mathematical Sciences (SCMS), Fudan University](https://scms.fudan.edu.cn/). I joined SCMS in September 2022 as a Young Investigator and was promoted to Tenure-Track Associate Professor in September 2025.
+I am **Tiandong Wang (王天栋)**, a **Tenure-Track Associate Professor** at the [Shanghai Center for Mathematical Sciences (SCMS), Fudan University](https://scms.fudan.edu.cn/). I joined SCMS in September 2022 as a Young Investigator and was promoted to Tenure-Track Associate Professor in September 2025.
 
 Prior to joining Fudan, I was a Tenure-Track Assistant Professor in the [Department of Statistics at Texas A&M University](https://stat.tamu.edu/) (2019–2022). I received my Ph.D. in Operations Research from the [School of Operations Research and Information Engineering at Cornell University](https://www.orie.cornell.edu) in 2019, under the supervision of Prof. Sidney Resnick.
 

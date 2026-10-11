@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tiandong Wang"
+title                    : "Tiandong Wang (王天栋)"
 title_separator          : "-"
-name                     : &name "Tiandong Wang"
+name                     : &name "Tiandong Wang (王天栋)"
 description              : &description "Tenure-Track Associate Professor at Shanghai Center for Mathematical Sciences, Fudan University"
 url                      : https://tw398.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/twang" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tiandong Wang"
+  name             : "Tiandong Wang (王天栋)"
   avatar           : "Portrait.jpg"
   bio              : "Tenure-Track Associate Professor at SCMS, Fudan University"
   location         : "Shanghai, China"
