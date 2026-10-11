@@ -5,6 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+SCMS, Fudan University
+======
+
+* Instructor, SCMS637003 Foundation of Applied Statistics, Fall 2023, 2024, 2025 & 2026
+* Instructor, MATH130015 Undergraduate Thesis, Spring 2025
+* Instructor, MATH130162 Independent Study I, Spring 2025
+* Instructor, SCMS817002 Complex Networks and Stochastic Analysis, Spring 2023
+
 Texas A&M University
 ======
 
@@ -17,6 +25,7 @@ Texas A&M University
 
 Cornell University
 ======
+
 * Teaching Assistant, ORIE 6500 Applied Stochastic Processes, Spring 2019
 * Teaching Assistant, ENGRD 2700 Basic Engineering Probability and Statistics, Fall 2018
 * Teaching Assistant, ORIE 5640 Statistics for Financial Engineering, Spring 2018
@@ -24,4 +33,5 @@ Cornell University
 
 Australian National University
 ======
+
 * Academic Tutor, STAT 2008/6038 Regression Modeling, Spring 2012
