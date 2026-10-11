@@ -33,7 +33,7 @@ Research Interests
 
 Awards and Honors
 ======
-* **Second Prize**, Shanghai Science and Technology Progress Award, *Shanghai Municipal People's Government*, 2025.
+* **上海市科技进步二等奖** (Second Prize, Shanghai Science and Technology Progress Award), *Shanghai Municipal People's Government*, 2025.
 * **Fudan University Outstanding Talent Program (Zhuo Xue)**, *Fudan University*, 2023.
 * **Shanghai Leading Talent (Overseas) Program (Ling Jun)**, *Shanghai Municipality*, 2022.
 * **Elected Member**, *International Statistical Institute (ISI)*, since 06/2022.

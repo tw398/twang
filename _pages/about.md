@@ -24,16 +24,6 @@ Prior to joining Fudan, I was a Tenure-Track Assistant Professor in the [Departm
 
 ---
 
-## <i class="fa fa-newspaper-o" aria-hidden="true" style="color: #2b5c8f;"></i> Recent News
-
-* **[2026.09]** Our paper *"Classification of extremal dependence in financial markets via bootstrap inference"* (with Q. Hui and S.I. Resnick) is published in the **Journal of Time Series Analysis** ([DOI: 10.1111/jtsa.70078](https://doi.org/10.1111/jtsa.70078)).
-* **[2026.06]** Invited talk on *"Emergence of Multivariate Extremes in Multilayer Inhomogeneous Random Graphs"* at **SPA 2026** (Stochastic Processes and their Applications), Cornell University, Ithaca, USA.
-* **[2026.01]** Co-authored book *"Data Governance and Model Optimization: Methodological Practices Based on Agile Statistics"* [in Chinese] published by the Publishing House of Electronics Industry.
-* **[2025.09]** Promoted to **Tenure-Track Associate Professor** at SCMS, Fudan University.
-* **[2025.02]** Awarded the **Second Prize of the Shanghai Science and Technology Progress Award** by the Shanghai Municipal People's Government.
-
----
-
 ## <i class="fa fa-flask" aria-hidden="true" style="color: #2b5c8f;"></i> Research Focus
 
 My research develops rigorous mathematical foundations and statistical methodologies for high-dimensional, heavy-tailed complex networks:
